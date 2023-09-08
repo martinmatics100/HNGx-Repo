@@ -5,14 +5,13 @@ using TaskOne.Implementation;
 
 namespace TaskOne.Controllers
 {
-    [Route("api/get[controller]")]
+    [Route("api")]
     [ApiController]
     public class InfoController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("get_info")]
         public IActionResult GetInfo(string slack_name, string track)
         {
-            // Check if slack_name and track are provided and not empty
             if (RequestValidator.IsNullOrEmpty(slack_name) || RequestValidator.IsNullOrEmpty(track))
             {
                 var errorResponse = new
@@ -23,7 +22,7 @@ namespace TaskOne.Controllers
                 return BadRequest(errorResponse);
             }
 
-            // Check if the Slack name is valid using the RequestValidator
+           
             if (!RequestValidator.IsValidSlackName(slack_name, "martinmatics"))
             {
                 var errorResponse = new
@@ -34,7 +33,7 @@ namespace TaskOne.Controllers
                 return BadRequest(errorResponse);
             }
 
-            // Check if the track is valid using the RequestValidator
+     
             if (!RequestValidator.IsValidTrack(track))
             {
                 var errorResponse = new
@@ -51,7 +50,7 @@ namespace TaskOne.Controllers
                 CurrentDay = DateTime.UtcNow.ToString("dddd", CultureInfo.InvariantCulture),
                 UtcTime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
                 Track = "backend",
-                GithubFileUrl = "https://github.com/martinmatics100/HNGx-Repo/tree/main/TaskOne",
+                GithubFileUrl = "https://github.com/martinmatics100/HNGx-Repo/blob/main/TaskOne/TaskOne.sln",
                 GithubRepoUrl = "https://github.com/martinmatics100/HNGx-Repo.git",
                 status_code = 200
             };
