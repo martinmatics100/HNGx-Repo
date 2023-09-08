@@ -1,0 +1,64 @@
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.exe
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.TaskOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.build.TaskOne.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaskOne.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaskOne.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\scopedcss\bundle\TaskOne.styles.css
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\TaskOneEndPoint\TaskOne\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.exe
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.TaskOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.build.TaskOne.props
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaskOne.props
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaskOne.props
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\scopedcss\bundle\TaskOne.styles.css
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll
