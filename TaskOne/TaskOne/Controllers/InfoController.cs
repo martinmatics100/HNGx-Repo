@@ -51,7 +51,7 @@ namespace TaskOne.Controllers
                 CurrentDay = DateTime.UtcNow.ToString("dddd", CultureInfo.InvariantCulture),
                 UtcTime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
                 Track = "backend",
-                GithubFileUrl = "https://github.com/username/repo/blob/main/file_name.ext",
+                GithubFileUrl = "https://github.com/martinmatics100/HNGx-Repo/tree/main/TaskOne",
                 GithubRepoUrl = "https://github.com/martinmatics100/HNGx-Repo.git",
                 status_code = 200
             };
