@@ -1,0 +1,11 @@
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\TaskOne.exe
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\TaskOne.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\TaskOne.deps.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\TaskOne.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\TaskOne.pdb
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\OneDrive\Desktop\HNGx-LocalRepo\HNGx-Repo\TaskOne\TaskOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
